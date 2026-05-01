@@ -1,24 +1,19 @@
 # 🗺️ Desafio WAR Estruturado – Conquista de Territórios
 
-Bem-vindo ao **Desafio WAR Estruturado!** Inspirado no famoso jogo de estratégia, este desafio convida você a programar diferentes versões do jogo WAR, evoluindo seus conhecimentos em **C** à medida que avança pelos níveis **Novato**, **Aventureiro** e **Mestre**.
+## 🧩 Nível Novato: Cadastro Inicial dos Territórios ✅ ######################## FINALIZADO EM 01/05/26 ######### ✅
 
-A empresa **MateCheck** contratou você para criar uma versão estruturada do WAR. Cada nível propõe novas funcionalidades, conceitos e desafios de programação. **Você escolhe por onde começar!**
+### 🎯 Objetivos concluídos!
 
----
-
-## 🧩 Nível Novato: Cadastro Inicial dos Territórios
-
-### 🎯 Objetivo
-
-- Criar uma `struct` chamada `Territorio`.
-- Usar um **vetor estático de 5 elementos** para armazenar os territórios.
-- Cadastrar os dados de cada território: **Nome**, **Cor do Exército**, e **Número de Tropas**.
-- Exibir o estado atual do mapa.
+- Criar uma `struct` chamada `Territorio` ✅
+- Usar um **vetor estático de 5 elementos** para armazenar os territórios.✅
+- Cadastrar os dados de cada território: **Nome**, **Cor do Exército**, e **Número de Tropas**.✅ (Eu coloquei nome diferente mas só pq eu achei mais bonitinho chamar de continente)
+- Exibir o estado atual do mapa.✅
+- EXTRA: Adicionei uma mensagem no final desejando "Bom jogo" pra combinar com o tema war ➕✅
 
 ### ⚙️ Funcionalidades
 
-- Leitura de dados pelo terminal (`fgets` e `scanf`)
-- Impressão organizada dos dados de todos os territórios
+- Leitura de dados pelo terminal (`fgets` e `scanf`)✅
+- Impressão organizada dos dados de todos os territórios✅
 
 ### 💡 Conceitos abordados
 
@@ -26,11 +21,22 @@ A empresa **MateCheck** contratou você para criar uma versão estruturada do WA
 - Vetor estático
 - Entrada/saída com `scanf`, `fgets`, e `printf`
 
-### 📥 Entrada
+### 📥 Entrada ✅
 
 O usuário digita o nome do território, a cor do exército dominante e o número de tropas para **cada um dos 5 territórios**.
 
-### 📤 Saída
+### 📤 Saída✅
+
+- Lista organizada contendo o nome do território, a cor do exército dominante e o número de tropas para cada um dos 5 territórios cadastrados anteriormente.
+- Mensagem final de bom jogo.
+
+############################################################ ✅ FINALIZADO KEVEN 01/05/2026✅ 
+
+
+
+
+
+
 
 
 
