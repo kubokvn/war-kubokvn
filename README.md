@@ -6,25 +6,7 @@ A empresa **MateCheck** contratou você para criar uma versão estruturada do WA
 
 ---
 
-## 🧩 Nível Novato: Cadastro Inicial dos Territórios
-
-### 🎯 Objetivo
-
-- Criar uma `struct` chamada `Territorio`.
-- Usar um **vetor estático de 5 elementos** para armazenar os territórios.
-- Cadastrar os dados de cada território: **Nome**, **Cor do Exército**, e **Número de Tropas**.
-- Exibir o estado atual do mapa.
-
-### ⚙️ Funcionalidades
-
-- Leitura de dados pelo terminal (`fgets` e `scanf`)
-- Impressão organizada dos dados de todos os territórios
-
-### 💡 Conceitos abordados
-
-- `struct`
-- Vetor estático
-- Entrada/saída com `scanf`, `fgets`, e `printf`
+## 🧩 Nível Novato: Cadastro Inicial dos Territórios ############ CONCLUÍDO KEVEN 01/05 ✅
 
 ### 📥 Entrada
 
@@ -32,6 +14,10 @@ O usuário digita o nome do território, a cor do exército dominante e o númer
 
 ### 📤 Saída
 
+Existe em lista tudo que foi cadastrado anteriormente + mensagem de bom jogo no fim.
+
+
+#########################################################################################################################
 
 
 ## 🧗‍♂️ Nível Aventureiro: Batalhas Estratégicas
